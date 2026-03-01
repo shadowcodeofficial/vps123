@@ -132,7 +132,7 @@ while true; do
         4) run_remote_script "https://raw.githubusercontent.com/shadowcodeofficial/shadowcode.qzz.io/refs/heads/main/cd/uninstall2.sh" "UNINSTALL TOOLS" ;;
         5) run_remote_script "https://raw.githubusercontent.com/shadowcodeofficial/shadowcode.qzz.io/refs/heads/main/cd/Blueprint2.sh" "BLUEPRINT" ;;
         6) run_remote_script "https://raw.githubusercontent.com/shadowcodeofficial/shadowcode.qzz.io/refs/heads/main/cd/cloudflare.sh" "CLOUDFLARE SETUP" ;;
-        7) run_remote_script "" "NEBULA" ;;
+        7) run_remote_script "https://raw.githubusercontent.com/shadowcodeofficial/shadowcode.qzz.io/refs/heads/main/cd/th2.sh" "NEBULA" ;;
         8)
             clear
             print_box_header "TAILSCALE INSTALLATION" $NEON_PURPLE
